@@ -1,4 +1,4 @@
-디지털통신시스템 설계 실습
+# 디지털통신시스템 설계 실습
 
 # week2
 - uniform random variable 발생시키기
@@ -13,7 +13,7 @@
 - 직접 녹음한 음성 신호 샘플링 및 복원
 
 # week5
-- PCM 구현
+PCM 구현
 - sinusoidal 신호를 샘플링, 양자화 및 복원
 - 샘플링->양자화->부호화->복호화->복원
 - 부호화 된 신호를 복원하여 원 신호 맞추기
@@ -24,3 +24,8 @@ BPSK 변조 및 BER 측정하기
 - BPSK 변조 및 잡음이 추가된 신호 생성하고 복조를 진행
 - BER 계산
 
+# week7
+QPSK 변조 및 SER 측정하기
+- random variable 발생 및 noise 추가
+- QPSK 변조 및 복조
+- BER 및 SER을 측정하여 QPSK와 BPSK 비교
