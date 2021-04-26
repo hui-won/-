@@ -24,3 +24,8 @@ BPSK 변조 및 BER 측정하기
 - BPSK 변조 및 잡음이 추가된 신호 생성하고 복조를 진행
 - BER 계산
 
+# week7
+QPSK 변조 및 SER 측정하기
+- random variable 발생 및 noise 추가
+- QPSK 변조 및 복조
+- BER 및 SER을 측정하여 QPSK와 BPSK 비교
