@@ -1,4 +1,4 @@
-디지털통신시스템 설계 실습
+#디지털통신시스템 설계 실습
 
 # week2
 - uniform random variable 발생시키기
