@@ -29,3 +29,9 @@ QPSK 변조 및 SER 측정하기
 - random variable 발생 및 noise 추가
 - QPSK 변조 및 복조
 - BER 및 SER을 측정하여 QPSK와 BPSK 비교
+
+# week9
+Rayleigh fading에 대한 BPSK BER 측정하기
+- Rayleigh PDF 그리기
+- Rayleigh channel을 통과하는 신호에 대해 BPSK 변조
+- BER 측정
