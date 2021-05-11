@@ -35,3 +35,8 @@ Rayleigh fading에 대한 BPSK BER 측정하기
 - Rayleigh PDF 그리기
 - Rayleigh channel을 통과하는 신호에 대해 BPSK 변조
 - BER 측정
+
+# week10
+Rayleigh fading channel을 통과한 이미지 신호 복원하기
+- 이미지에 대한 BPSK 변조 및 복조
+- rayleigh fading channel을 통과한 변조된 이미지 신호 복원하기
