@@ -40,3 +40,8 @@ Rayleigh fading에 대한 BPSK BER 측정하기
 Rayleigh fading channel을 통과한 이미지 신호 복원하기
 - 이미지에 대한 BPSK 변조 및 복조
 - rayleigh fading channel을 통과한 변조된 이미지 신호 복원하기
+
+# week11
+OFDM 신호의 송수신
+- OFDM-BPSK 변조 실습
+- AWGN을 추가한 OFDM 변조 및 복조
